@@ -18,7 +18,7 @@ import { SelectItem } from "../ui/select";
 import Image from "next/image";
 import { FileUploader } from "../FileUploader";
 
-
+//http://localhost:3000/patients/66b372cf0031375b9a1e/register
 
 const RegisterForm = ({ user }: { user: User }) => {
   const router = useRouter();
