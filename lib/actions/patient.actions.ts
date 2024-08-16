@@ -12,7 +12,10 @@ export const createUser = async (user: CreateUserParams) => {
         user.email,
         user.phone,
         undefined,
-        user.name )
+        user.name
+    )
+    return parseStringify(newUser)
+
     } catch (error: any) {
         if(error && error?.code === 409) {
             const documents = await users.list([
