@@ -1,11 +1,13 @@
-import AppointmentForm from "@/components/forms/AppointmetForm";
+import { AppointmentForm } from "@/components/forms/AppointmetForm";
 import PatientForm from "@/components/forms/PatientForm";
 import { getPatient } from "@/lib/actions/patient.actions";
 import Image from "next/image";
 import Link from "next/link";
 
 export default async function NewAppointment({ params: { userId }}: SearchParamProps) {
-    const patient = await getPatient(userId)
+    const patient = await getPatient(userId);
+
+
   return (
     <div className="flex h-screen max-h-screen">
       {/* TODO: OTP Verification / PassKeyModal */}
