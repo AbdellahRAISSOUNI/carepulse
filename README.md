@@ -128,4 +128,33 @@ Public assets used in the project can be found [here](https://drive.google.com/f
 <br />
 
 
+  ####  Screenshots:
+![image](https://github.com/user-attachments/assets/a2bc3ce5-27f5-456d-93fd-034c351888dd)
+
+![image](https://github.com/user-attachments/assets/871fe641-f9da-45fe-a33f-270eb9ff7947)
+
+![image](https://github.com/user-attachments/assets/137a2d7a-aad0-4b15-b845-2eb2806ae96b)
+
+![image](https://github.com/user-attachments/assets/efda446d-2088-41df-a63c-94440fd8c429)
+
+![image](https://github.com/user-attachments/assets/e0aff020-f7c9-4203-b940-5c8915a82aaa)
+
+![image](https://github.com/user-attachments/assets/105c6377-9646-42fb-8e2f-727a7d82a604)
+
+![image](https://github.com/user-attachments/assets/b0b703c0-cfaa-495f-b41e-92344e9adb90)
+
+![image](https://github.com/user-attachments/assets/9cb9babb-6ffa-4de1-91a2-64c3bdc6cea4)
+
+![image](https://github.com/user-attachments/assets/4a9c182a-8a9f-412f-9a74-1513cc997331)
+
+![image](https://github.com/user-attachments/assets/5e6f8de0-cc4b-48db-902c-526322e198ca)
+
+![image](https://github.com/user-attachments/assets/d6c7e729-6aa9-46e3-b87c-8b2a1f3e53ec)
+
+![image](https://github.com/user-attachments/assets/648dd0da-610f-4d17-95e9-2c63aa7ef04d)
+
+
+
+
+
 #
